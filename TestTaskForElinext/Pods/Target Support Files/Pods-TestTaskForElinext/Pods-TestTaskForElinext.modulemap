@@ -1,0 +1,6 @@
+framework module Pods_TestTaskForElinext {
+  umbrella header "Pods-TestTaskForElinext-umbrella.h"
+
+  export *
+  module * { export * }
+}
